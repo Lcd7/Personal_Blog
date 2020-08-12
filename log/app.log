@@ -1,0 +1,8 @@
+[2020-08-12 11:28:45,025]:[_internal.py]:[line:122]:INFO:  * Restarting with stat
+[2020-08-12 11:28:47,683]:[_internal.py]:[line:122]:WARNING:  * Debugger is active!
+[2020-08-12 11:28:47,758]:[_internal.py]:[line:122]:INFO:  * Debugger PIN: 216-631-411
+[2020-08-12 11:28:47,799]:[_internal.py]:[line:122]:INFO:  * Running on http://0.0.0.0:8058/ (Press CTRL+C to quit)
+[2020-08-12 11:29:09,628]:[_internal.py]:[line:122]:INFO: 127.0.0.1 - - [12/Aug/2020 11:29:09] "GET /login HTTP/1.1" 308 -
+[2020-08-12 11:29:11,876]:[_internal.py]:[line:122]:INFO: 127.0.0.1 - - [12/Aug/2020 11:29:11] "GET /login/ HTTP/1.1" 200 -
+[2020-08-12 11:29:12,222]:[_internal.py]:[line:122]:INFO: 127.0.0.1 - - [12/Aug/2020 11:29:12] "GET /static/css/login.css HTTP/1.1" 200 -
+[2020-08-12 11:29:21,492]:[_internal.py]:[line:122]:INFO: 127.0.0.1 - - [12/Aug/2020 11:29:21] "GET /login/ HTTP/1.1" 200 -
